@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+}
+p {
+    border: 1px solid black;
+}
+a:link {
+    background-color: gold;
+}
+
+a:visited {
+    background-color: white;
+}
+
+a:hover {
+    background-color: gold;
+}
+
+a:active {
+    background-color: white;
+}
+
+/*
+<h1>Boiiiiiiiiiiiii</h1>
+
+<p>BlahBlahBlahBlah</p>
+<p>BeebopBeebopBeebop</p>
+<p>yayeeyayeeyayee</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwIRpoTnV0dpUiDeLVQ4etPvAmGBm6Wc3Oa2gfb98AN9f9F8t"https://www.google.ca/search?q=off+white&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiX36SI3vfUAhVL0YMKHU4ODzsQ_AUICigB&biw=697&bih=592" width="100" height="100">
+<h1>BOI LIFE</h1>
+
+<p>This a fantastic website</p>
+*/
